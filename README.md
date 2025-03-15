@@ -1,6 +1,6 @@
-# **Project: Fashion Image Classification
+# Project: Fashion Image Classification
 
-This project demonstrates the process of classifying fashion images using Transfer Learning. We started by training a model on the **Fashion-MNIST** dataset and fine-tuned it on the more complex **Fashion Product Images Dataset**.
+This project demonstrates the process of classifying fashion images using Transfer Learning. Started by training a model on the **Fashion-MNIST** dataset and fine-tuned it on the more complex **Fashion Product Images Dataset**.
 
 ## Features
 - **Transfer Learning**: Leveraged a pre-trained model on Fashion-MNIST.
