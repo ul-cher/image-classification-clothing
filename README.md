@@ -21,3 +21,8 @@ This project demonstrates the process of classifying fashion images using Transf
 - Implemented data augmentation to increase training data diversity.
 - Fine-tuned the model, improving accuracy from 82.46% to 92.63%.
 - Visualized training results using accuracy/loss plots and a confusion matrix.
+
+
+Datasets:
+- Fasion MNIST: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+- Fashion Product Images Dataset: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
